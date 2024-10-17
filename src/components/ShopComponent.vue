@@ -8,6 +8,7 @@ import Rating from 'primevue/rating';
 const bookStore = useBookStore();
 const books: Book[] = bookStore.getAllBooks();
 
+
 </script>
 
 <template>
